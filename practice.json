@@ -1,0 +1,10 @@
+
+    {"movie": {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "isAvailable": true,
+        "genres":["Romance", "Drama"],
+        "cast": [{"Matt Damon": "Lead"}, {"Ben Affleck": "Supporting"}, {"Robin Williams": "Supporting"}, {"Minnie Driver": "Supporting"}]
+    }
+    }
+
